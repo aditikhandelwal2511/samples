@@ -31,8 +31,4 @@ jobs:
       - name: Step4- list cureent directory
         run: ls -a
        
-      - name: step5- what is in target folder
-        run: | 
-          cd target
-          ls -a
-          
+ 
